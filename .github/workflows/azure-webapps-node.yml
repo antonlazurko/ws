@@ -39,7 +39,6 @@ jobs:
       with:
         name: server
         path: server
-      working-directory: server
 
   deploy:
     permissions:
